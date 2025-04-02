@@ -1,4 +1,4 @@
-### Olá! Eu sou o Gabriel Miron
+### Olá! Eu sou o Gabriel Cotrim Miron
 
 - 🎓 Estudante de Engenharia de Software na **Universidade Tecnológica Federal do Paraná (UTFPR)**
 - 📚 Apaixonado por tecnologia e sempre buscando aprimorar minhas habilidades em desenvolvimento de software
