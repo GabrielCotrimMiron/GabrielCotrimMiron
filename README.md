@@ -34,8 +34,6 @@
 ### 📌 Projetos em Destaque
 - 🚧 Em breve...
 
-📌 **Contribuições Open Source:** Sempre aberto a colaborações em projetos de código aberto.
-
 ---
 
 ### 📬 Entre em Contato
