@@ -1,8 +1,8 @@
-# ✨ Olá! Eu sou o Gabriel Miron
+# ⭐ Olá! Eu sou o Gabriel Cotrim Miron
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Gabriel+Miron;Bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
-
-<img align="right" src="https://avatars.githubusercontent.com/u/00000000?v=4" width="180" alt="Foto de perfil">  
+<p align="center">
+  <strong>Bem-vindo ao meu GitHub!</strong>
+</p>
 
 - 🎓 Estudante de Engenharia de Software na **Universidade Tecnológica Federal do Paraná (UTFPR)**  
 - 📚 Apaixonado por tecnologia e sempre buscando aprimorar minhas habilidades em desenvolvimento de software  
@@ -18,9 +18,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCotrimMiron&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielCotrimMiron&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=true)
-
-**💡 OBS:** Caso as estatísticas não estejam carregando corretamente, pode ser uma limitação da API do GitHub.  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielCotrimMiron&theme=react&color=87CEEB&bg_color=00000000)  
 
 ---
 
@@ -40,7 +38,7 @@
 ---
 
 ## 📌 Projetos em Destaque  
-- 🛠️ Em breve...
+- 🚧 Em breve...
 
 ---
 
