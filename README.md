@@ -1,4 +1,4 @@
-### Olá! Eu sou o Gabriel Cotrim Miron
+# Olá! Eu sou o Gabriel Cotrim Miron
 
 <p align="center">
   <a href="https://github.com/GabrielCotrimMiron">
