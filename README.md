@@ -2,9 +2,10 @@
 
 <p align="left">
   <a href="https://github.com/GabrielCotrimMiron">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=false&vCenter=false&width=600&lines=Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
   </a>
 </p>
+
 
 ## 🚀 Sobre mim
 - 🎓 Estudante de Engenharia de Software na **UTFPR**
