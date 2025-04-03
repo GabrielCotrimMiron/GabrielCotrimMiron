@@ -1,8 +1,10 @@
-### Olá! Eu sou o Gabriel Cotrim Miron
+# Olá! Eu sou o Gabriel Cotrim Miron
+
+## Bem-vindo ao meu GitHub!
 
 <p align="center">
   <a href="https://github.com/GabrielCotrimMiron">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFFFFF&center=false&vCenter=true&width=435&lines=Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,7 +22,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielCotrimMiron&show_icons=true&theme=radical)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCotrimMiron&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielCotrimMiron&theme=github-light&color=blue)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielCotrimMiron&theme=github-light&color=ADD8E6)
 
 ---
 
