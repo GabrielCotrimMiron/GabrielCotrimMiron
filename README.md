@@ -10,9 +10,9 @@
 
 ## 🚀 Estatísticas do GitHub  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel%20Cotrim%20Miron&show_icons=true&theme=radical)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielCotrimMiron&show_icons=true&theme=radical)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel%20Cotrim%20Miron&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCotrimMiron&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
 **💡 OBS:** Caso as estatísticas não estejam carregando corretamente, pode ser uma limitação da API do GitHub.  
 
