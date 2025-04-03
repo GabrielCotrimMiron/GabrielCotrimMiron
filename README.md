@@ -1,17 +1,10 @@
-### Olá! Eu sou o Gabriel Cotrim Miron
+# Bem-vindo ao meu GitHub!
 
-```python
-import time
-import sys
-
-def typing_effect(text):
-    for char in text:
-        sys.stdout.write(char)
-        sys.stdout.flush()
-        time.sleep(0.1)
-
-typing_effect("Bem-vindo ao meu GitHub!")
-```
+<p align="center">
+  <a href="https://github.com/GabrielCotrimMiron">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
+  </a>
+</p>
 
 ## 🚀 Sobre mim
 - 🎓 Estudante de Engenharia de Software na **UTFPR**
