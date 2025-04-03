@@ -1,8 +1,10 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&width=435&lines=Ol%C3%A1!+Eu+sou+o+Gabriel+Cotrim+Miron;Bem-vindo+ao+meu+perfil+no+GitHub!" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+o+Gabriel+Cotrim+Miron;Bem-vindo+ao+meu+perfil+no+GitHub!" alt="Typing SVG" />
 
-![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=GabrielCotrimMiron)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GabrielCotrimMiron&label=Visitantes&color=blue&style=plastic" alt="Visitantes"/>
+</p>
 
-## 🎓 Sobre Mim
+## 🎓 Sobre Mim  
 - Estudante de Engenharia de Software na **Universidade Tecnológica Federal do Paraná (UTFPR)**  
 - 📚 Apaixonado por tecnologia e sempre buscando aprimorar minhas habilidades em desenvolvimento de software  
 - 🖥️ Experiência em desenvolvimento Web com **HTML, CSS e JavaScript**  
@@ -11,30 +13,24 @@
 
 ---
 
-## 🚀 Estatísticas do GitHub
+## 🚀 Estatísticas do GitHub  
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCotrimMiron&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCotrimMiron&layout=compact&theme=radical"/>
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielCotrimMiron&show_icons=true&theme=radical)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCotrimMiron&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-
-![Gráfico de Atividade](https://activity-graph.herokuapp.com/graph?username=GabrielCotrimMiron&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielCotrimMiron&theme=radical" alt="Gráfico de Atividade"/>
+</p>
 
 **💡 OBS:** Caso as estatísticas não estejam carregando corretamente, pode ser uma limitação da API do GitHub.  
 
 ---
 
 ## 🛠️ Tecnologias que utilizo no meu dia a dia  
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="C++" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,java,php,mysql" />
+</p>
 
 ---
 
@@ -44,8 +40,7 @@
 ---
 
 ## 📩 Entre em Contato  
-
-<div>
-  <a href="mailto:gabrielcmiron@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/gabriel-c-miron/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</div>
+<p align="center">
+  <a href="mailto:gabrielcmiron@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gabriel-c-miron/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
