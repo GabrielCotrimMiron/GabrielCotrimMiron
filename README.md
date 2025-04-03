@@ -1,6 +1,6 @@
 # Olá! Eu sou o Gabriel Cotrim Miron
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/GabrielCotrimMiron">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
   </a>
