@@ -1,6 +1,9 @@
-# Olá! Eu sou o Gabriel Cotrim Miron
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&width=435&lines=Ol%C3%A1!+Eu+sou+o+Gabriel+Cotrim+Miron;Bem-vindo+ao+meu+perfil+no+GitHub!" alt="Typing SVG" />
 
-- 🎓 Estudante de Engenharia de Software na **Universidade Tecnológica Federal do Paraná (UTFPR)**  
+![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=GabrielCotrimMiron)
+
+## 🎓 Sobre Mim
+- Estudante de Engenharia de Software na **Universidade Tecnológica Federal do Paraná (UTFPR)**  
 - 📚 Apaixonado por tecnologia e sempre buscando aprimorar minhas habilidades em desenvolvimento de software  
 - 🖥️ Experiência em desenvolvimento Web com **HTML, CSS e JavaScript**  
 - 💡 Conhecimento em **C++, Python, Java, PHP e SQL**  
@@ -8,11 +11,15 @@
 
 ---
 
-## 🚀 Estatísticas do GitHub  
+## 🚀 Estatísticas do GitHub
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielCotrimMiron&show_icons=true&theme=radical)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCotrimMiron&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+
+![Gráfico de Atividade](https://activity-graph.herokuapp.com/graph?username=GabrielCotrimMiron&theme=radical)  
+
+**💡 OBS:** Caso as estatísticas não estejam carregando corretamente, pode ser uma limitação da API do GitHub.  
 
 ---
 
@@ -39,6 +46,6 @@
 ## 📩 Entre em Contato  
 
 <div>
-  <a href="mailto:gabrielcmiron@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-c-miron/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:gabrielcmiron@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gabriel-c-miron/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
