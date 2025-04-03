@@ -14,8 +14,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCotrimMiron&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
-**💡 OBS:** Caso as estatísticas não estejam carregando corretamente, pode ser uma limitação da API do GitHub.  
-
 ---
 
 ## 🛠️ Tecnologias que utilizo no meu dia a dia  
