@@ -2,19 +2,11 @@
 
 ---
 
-<p align="left">
-  <a href="https://github.com/GabrielCotrimMiron">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=false&vCenter=false&width=600&lines=Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
 ## 🚀 Sobre mim
-- 🎓 Estudante de Engenharia de Software na **UTFPR**
+- 🎓 Estudante de Engenharia de Software na **Universidade Tecnológica Federal do Paraná (UTFPR)**
 - 📚 Apaixonado por tecnologia e desenvolvimento de software
 - 🖥️ Experiência com **HTML, CSS, JavaScript**
-- 💡 Conhecimento em **C, C++, Python, Java, PHP e SQL**
+- 💡 Conhecimento em **C, Python, Java, PHP e SQL**
 - 🚀 Interesse por **Desenvolvimento Web, Engenharia de Software e Inovação Tecnológica**
 
 ---
