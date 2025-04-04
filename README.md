@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre mim
 - 🎓 Estudante de Engenharia de Software na **Universidade Tecnológica Federal do Paraná (UTFPR)**
-- 📚 Apaixonado por tecnologia e desenvolvimento de software
+- 📚 Interessado por tecnologia e desenvolvimento de software
 - 🖥️ Experiência com **HTML, CSS, JavaScript**
 - 💡 Conhecimento em **C, Python, Java, PHP e SQL**
 - 🚀 Interesse por **Desenvolvimento Web, Engenharia de Software e Inovação Tecnológica**
