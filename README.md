@@ -24,8 +24,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielCotrimMiron&show_icons=true&theme=radical)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCotrimMiron&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielCotrimMiron&bg_color=87CEEB&color=FFFFFF&line=FFFFFF&point=1E90FF)
-
 ---
 
 ## 🛠️ Tecnologias que utilizo  
