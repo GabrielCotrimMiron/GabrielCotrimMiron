@@ -4,11 +4,13 @@
 
 ## 🚀 Sobre mim
 - 🎓 Estudante de Engenharia de Software na **Universidade Tecnológica Federal do Paraná (UTFPR)**
-- 📚 Interessado por tecnologia e desenvolvimento de software
-- 🖥️ Experiência com **HTML, CSS, JavaScript**
-- 💡 Conhecimento em **C, Python, Java, PHP e SQL**
-- 🚀 Interesse por **Desenvolvimento Web, Engenharia de Software e Inovação Tecnológica**
-
+- 🏫 Formação técnica em Desenvolvimento de Sistemas pela ETEC Marinês Teodoro de Freitas Almeida
+- 🧠 Interessado por tecnologia, inovação e resolução de problemas com software
+- 🖥️ Experiência com HTML, CSS e JavaScript para criação de interfaces web responsivas
+- 💡 Conhecimentos em C, Python, Java, PHP, SQL e desenvolvimento mobile com Xamarin
+- 🗄️ Familiaridade com bancos de dados e lógica de programação aplicada
+- 🚀 Foco em Desenvolvimento Web, Engenharia de Software e aplicações práticas da tecnologia no dia a dia
+  
 ---
 
 ## 📊 Estatísticas do GitHub  
