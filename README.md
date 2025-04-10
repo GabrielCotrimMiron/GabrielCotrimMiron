@@ -54,7 +54,10 @@
 
 ## 📊 Estatísticas e Métricas
 
+### 👀 Visitantes
+
 ![Visitantes](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/GabrielCotrimMiron&count_bg=%23007BFF&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Visitantes&edge_flat=false)
+
 
 
 
