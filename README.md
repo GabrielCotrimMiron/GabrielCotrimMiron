@@ -56,7 +56,10 @@
 
 ### 👀 Visitantes
 
-![Visitantes](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/GabrielCotrimMiron&count_bg=%23007BFF&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Visitantes&edge_flat=false)
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=GabrielCotrimMiron" alt="Contador de Visitas" />
+</p>
+
 
 
 
