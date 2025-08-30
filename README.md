@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre mim
 - 🎓 Estudante de Engenharia de Software na **Universidade Tecnológica Federal do Paraná (UTFPR)**
-- 🏫 Formação técnica em Desenvolvimento de Sistemas pela ETEC Marinês Teodoro de Freitas Almeida
+- 🏫 Formação técnica em Análise e Desenvolvimento de Sistemas pela ETEC Marinês Teodoro de Freitas Almeida
 - 🧠 Interessado por tecnologia, inovação e resolução de problemas com software
 - 🖥️ Experiência com HTML, CSS e JavaScript para criação de interfaces web responsivas
 - 💡 Conhecimentos em C, Python, Java, PHP, SQL e desenvolvimento mobile com Xamarin
