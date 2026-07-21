@@ -16,9 +16,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-github.vercel.app/api?username=GabrielCotrimMiron&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-rho-rosy.vercel.app/api?username=GabrielCotrimMiron&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats-github.vercel.app/api/top-langs/?username=GabrielCotrimMiron&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-rho-rosy.vercel.app/api/top-langs/?username=GabrielCotrimMiron&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -45,11 +45,3 @@
   <a href="mailto:gabrielcmiron@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-c-miron/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-
-
-
-
-
-
-
