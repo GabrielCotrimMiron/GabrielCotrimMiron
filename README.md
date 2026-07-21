@@ -13,7 +13,6 @@
   
 ---
 ## 📊 Estatísticas do GitHub  
-github-readme-stats-gabcom.vercel.app
 
 [![Top Langs](https://github-readme-stats-gabcom.vercel.app/api/top-langs/?username=GabrielCotrimMiron&layout=compact&theme=radical&cache_seconds=10)](https://github.com/anuraghazra/github-readme-stats)
 
