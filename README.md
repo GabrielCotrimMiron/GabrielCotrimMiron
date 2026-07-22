@@ -18,7 +18,7 @@
 
 <img height="180em" src="https://github-readme-stats-rho-rosy.vercel.app/api?username=GabrielCotrimMiron&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats-rho-rosy.vercel.app/api/top-langs/?username=GabrielCotrimMiron&layout=compact&theme=tokyonight&count_private=true&cache_seconds=60"/>
+<img height="180em" src="https://github-readme-stats-rho-rosy.vercel.app/api/top-langs/?username=GabrielCotrimMiron&layout=compact&theme=dracula&count_private=true&cache_seconds=60&hide=html"/>
 
 </div>
 
