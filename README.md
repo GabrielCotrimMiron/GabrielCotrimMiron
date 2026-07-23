@@ -9,7 +9,6 @@
 - 🖥️ Experiência com HTML, CSS e JavaScript para criação de interfaces web responsivas
 - 💡 Conhecimentos em C, Python, Java, PHP, SQL e desenvolvimento mobile com Xamarin
 - 🗄️ Familiaridade com bancos de dados e lógica de programação aplicada
-- 🚀 Foco em Desenvolvimento Web, Engenharia de Software e aplicações práticas da tecnologia no dia a dia
   
 ---
 ## 📊 Estatísticas do GitHub  
