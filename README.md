@@ -1,17 +1,31 @@
-# ⭐ Olá! Eu sou o Gabriel Cotrim Miron
+# 👋 Olá! Eu sou o Gabriel Cotrim Miron
+
+🎓 Estudante de Engenharia de Software na UTFPR.
+
+Tenho interesse em desenvolvimento de software, banco de dados, automação e tecnologias emergentes. Busco constantemente aprender novas ferramentas, linguagens e boas práticas para evoluir como desenvolvedor.
 
 ---
 
-## 🚀 Sobre mim
-- 🎓 Estudante de Engenharia de Software na **Universidade Tecnológica Federal do Paraná (UTFPR)**
-- 🏫 Formação técnica em Análise e Desenvolvimento de Sistemas pela ETEC Marinês Teodoro de Freitas Almeida
-- 🧠 Interessado por tecnologia, inovação e resolução de problemas com software
-- 🖥️ Experiência com HTML, CSS e JavaScript para criação de interfaces web responsivas
-- 💡 Conhecimentos em C, Python, Java, PHP, SQL e desenvolvimento mobile com Xamarin
-- 🗄️ Familiaridade com bancos de dados e lógica de programação aplicada
-  
+## 🚀 Atualmente
+
+- 🎓 Engenharia de Software — UTFPR
+- 📚 Técnico em Desenvolvimento de Sistemas (ETEC)
+- 💻 Desenvolvendo projetos acadêmicos e pessoais
+- 🌱 Aprendendo continuamente novas tecnologias
+
 ---
-## 📊 Estatísticas do GitHub  
+
+## 💻 Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,c,python,js,html,css,php,mysql,git,github,vscode&perline=6"/>
+
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
@@ -23,24 +37,30 @@
 
 ---
 
-## 🛠️ Tecnologias que utilizo  
+## 📂 Alguns projetos
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
+📌 Sistema Hangar de Manutenção e Logística (Java)
+
+Projeto desenvolvido utilizando Programação Orientada a Objetos, Swing e Collections.
+
+📌 Sistema de Gerenciamento Acadêmico (C)
+
+Projeto desenvolvido para a disciplina de Algoritmos II com modularização, structs, alocação dinâmica e organização em múltiplos arquivos.
+
+Mais projetos podem ser encontrados nos repositórios abaixo.
 
 ---
 
-## 📩 Entre em Contato  
+## 📫 Contato
 
-<div>
-  <a href="mailto:gabrielcmiron@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-c-miron/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div align="center">
+
+<a href="mailto:gabrielcmiron@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gabriel-c-miron/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </div>
